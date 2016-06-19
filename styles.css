@@ -1,12 +1,29 @@
 body{
     background-color: #000B16;
-    text-align: center;
+    
     font-family: 'Raleway', sans-serif;
+    color: white;
 
 }
 h1{
     color: white;
+    font-size: 80px;
+    text-align: center;
+}
+h2{
+    font-size: 50px;
 }
 p{
     color: white;
+}
+hr { 
+    width: 95%; 
+    height: 2px; 
+    margin: 50 auto;
+    mar
+    color: blue;
+    background: #ffffff;
+}
+.media{
+    margin-left: 50px;
 }
