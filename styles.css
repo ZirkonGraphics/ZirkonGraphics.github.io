@@ -2,28 +2,44 @@ body{
     background-color: #000B16;
     
     font-family: 'Raleway', sans-serif;
-    color: white;
+    
 
 }
 h1{
     color: white;
-    font-size: 80px;
+    font-size: 60px;
     text-align: center;
 }
 h2{
-    font-size: 50px;
+    font-size: 60px;
+    color: white;
 }
 p{
     color: white;
+    font-size: 18px;
+}
+.card-text{
+    color: black;
 }
 hr { 
     width: 95%; 
     height: 2px; 
     margin: 50 auto;
-    mar
     color: blue;
     background: #ffffff;
 }
 .media{
     margin-left: 50px;
+}
+h3{
+    text-align: center;
+    color: black;
+}
+.card-img-top{
+  width:100%;
+  height:auto;
+  margin-bottom: 8px;
+}
+.top-info{
+    margin-top: 10px;
 }
